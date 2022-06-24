@@ -22,14 +22,14 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://hichamben.github.io/intro-component-with-signup-form-master/
+- Live Site URL: [solution] (https://hichamben.github.io/intro-component-with-signup-form-master/)
 
 
 ### Built with
 
 - Semantic HTML5 markup
-- Mobile-first workflow
 - [tailwindcss](https://tailwindcss.com/) - CSS framework
+- Vanila JS
 
 
 ## Author
